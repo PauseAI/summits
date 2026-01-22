@@ -2,7 +2,7 @@
 
 **Status**: 🟡 In progress
 **Last updated**: 2026-01-22
-**Researcher**: Anthony Bailey (via PauseAI Australia source)
+**Researcher**: pet.ho cc PauseAI Australia
 
 ## Overview
 

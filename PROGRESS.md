@@ -28,7 +28,7 @@ Last updated: 2026-01-22
 | France | ⬜ | | GPAI co-founder, hosted Paris |
 | Germany | ⬜ | | Major EU voice |
 | Singapore | ⬜ | | GPAI member, active in ASEAN |
-| Australia | 🟡 | Anthony | GPAI founding member, 6 contacts added |
+| Australia | 🟡 | pet.ho cc PauseAI Australia | GPAI founding member, 6 contacts added |
 | Netherlands | ⬜ | | Active on AI governance |
 
 ## Tier 3: Potential Swing Votes
