@@ -1,0 +1,6 @@
+# Core dependencies
+openpyxl>=3.1.0
+
+# Optional - for future automation
+requests>=2.28.0
+beautifulsoup4>=4.11.0

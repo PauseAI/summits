@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "version": "0.1.0",
+    "last_updated": "2026-01-11",
+    "maintainer": "PauseAI",
+    "license": "TBD"
+  },
+  "countries": {
+    "united_kingdom": {
+      "name": "United Kingdom",
+      "iso_code": "GBR",
+      "region": "Europe",
+      "gpai_member": true,
+      "gpai_founding": true,
+      "oecd_member": true,
+      "ai_safety_institute": {
+        "exists": true,
+        "name": "AI Safety Institute",
+        "acronym": "AISI",
+        "established": "2023-11",
+        "website": "https://www.gov.uk/government/organisations/ai-safety-institute",
+        "parent_org": "DSIT"
+      },
+      "lead_ministry": {
+        "name": "Department for Science, Innovation and Technology",
+        "acronym": "DSIT",
+        "website": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "general_email": "enquiries@dsit.gov.uk"
+      },
+      "summits": {
+        "bletchley_2023": {
+          "status": "signed",
+          "hosted": true,
+          "notes": "Host country"
+        },
+        "seoul_2024": {
+          "status": "signed",
+          "notes": ""
+        },
+        "paris_2025": {
+          "status": "declined",
+          "notes": "Did not sign final statement, cited governance clarity concerns"
+        }
+      },
+      "contacts": [
+        {
+          "name": "Peter Kyle",
+          "title": "Secretary of State for Science, Innovation and Technology",
+          "organization": "DSIT",
+          "role_type": "minister",
+          "email": "enquiries@dsit.gov.uk",
+          "source_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+          "verified_date": "2026-01-11",
+          "notes": "Cabinet-level minister, leads UK AI policy"
+        },
+        {
+          "name": "Feryal Clark",
+          "title": "Parliamentary Under-Secretary of State for AI and Digital Government",
+          "organization": "DSIT",
+          "role_type": "minister",
+          "email": "enquiries@dsit.gov.uk",
+          "source_url": "https://www.gov.uk/government/people/feryal-clark",
+          "verified_date": "2026-01-11",
+          "notes": "Junior minister specifically for AI"
+        },
+        {
+          "name": "Emran Mian",
+          "title": "Permanent Secretary",
+          "organization": "DSIT",
+          "role_type": "official",
+          "email": "enquiries@dsit.gov.uk",
+          "source_url": "https://en.wikipedia.org/wiki/Department_for_Science,_Innovation_and_Technology",
+          "verified_date": "2026-01-11",
+          "notes": "Senior civil servant, head of department"
+        },
+        {
+          "name": "Kier Beaumont",
+          "title": "Director",
+          "organization": "AI Safety Institute",
+          "role_type": "institute_head",
+          "email": null,
+          "source_url": null,
+          "verified_date": "2026-01-11",
+          "notes": "Appointed Jan 2025, formerly FCDO/GCHQ"
+        }
+      ],
+      "notes": "UK hosted Bletchley Summit 2023, established first national AISI. Declined to sign Paris 2025 declaration alongside US."
+    }
+  }
+}

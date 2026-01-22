@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "version": "0.1.0",
+    "last_updated": "2026-01-11"
+  },
+  "summits": {
+    "bletchley_2023": {
+      "name": "AI Safety Summit 2023",
+      "location": "Bletchley Park, United Kingdom",
+      "dates": {
+        "start": "2023-11-01",
+        "end": "2023-11-02"
+      },
+      "host_country": "united_kingdom",
+      "declaration": {
+        "name": "The Bletchley Declaration",
+        "url": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration"
+      },
+      "signatories": [
+        "australia", "brazil", "canada", "chile", "china", "european_union",
+        "france", "germany", "india", "indonesia", "ireland", "israel",
+        "italy", "japan", "kenya", "netherlands", "nigeria", "philippines",
+        "saudi_arabia", "singapore", "south_korea", "spain", "switzerland",
+        "turkiye", "ukraine", "uae", "united_kingdom", "united_states"
+      ],
+      "notes": "28 countries + EU signed. First major international AI safety summit."
+    },
+    "seoul_2024": {
+      "name": "AI Seoul Summit 2024",
+      "location": "Seoul, South Korea",
+      "dates": {
+        "start": "2024-05-21",
+        "end": "2024-05-22"
+      },
+      "host_country": "south_korea",
+      "declaration": {
+        "name": "Seoul Declaration",
+        "url": null
+      },
+      "signatories": [],
+      "notes": "Follow-up to Bletchley. Need to verify signatory list."
+    },
+    "paris_2025": {
+      "name": "AI Action Summit 2025",
+      "location": "Paris, France",
+      "dates": {
+        "start": "2025-02-10",
+        "end": "2025-02-11"
+      },
+      "host_country": "france",
+      "declaration": {
+        "name": "Paris AI Action Summit Statement",
+        "url": null
+      },
+      "signatories": [],
+      "non_signatories": ["united_kingdom", "united_states"],
+      "notes": "UK and US declined to sign. Framing shifted from 'safety' toward 'action/impact'. Critics (inc. Dario Amodei) said it inadequately addressed risk."
+    },
+    "india_2026": {
+      "name": "AI Impact Summit 2026",
+      "location": "New Delhi, India",
+      "dates": {
+        "start": "2026-02-19",
+        "end": "2026-02-20"
+      },
+      "host_country": "india",
+      "website": "https://impact.indiaai.gov.in",
+      "declaration": null,
+      "working_groups": [
+        "Safe and Trusted AI",
+        "Inclusive AI",
+        "Sustainable AI"
+      ],
+      "key_contacts": {
+        "s_krishnan": {
+          "name": "S. Krishnan",
+          "title": "Secretary, Ministry of Electronics and IT",
+          "notes": "Key organizer"
+        },
+        "shreeppriya_gopalakrishnan": {
+          "name": "Shreeppriya Gopalakrishnan",
+          "organization": "IndiaAI",
+          "notes": "Operational lead"
+        }
+      },
+      "notes": "Framing as 'impact' rather than 'safety'. Working group on 'Safe and Trusted AI' most relevant for x-risk engagement."
+    }
+  },
+  "gpai_summits": {
+    "new_delhi_2023": {
+      "name": "GPAI Summit 2023",
+      "location": "New Delhi, India",
+      "dates": {
+        "start": "2023-12-12",
+        "end": "2023-12-14"
+      },
+      "notes": "India as GPAI Chair. 29 member countries."
+    },
+    "belgrade_2024": {
+      "name": "GPAI Summit 2024",
+      "location": "Belgrade, Serbia",
+      "dates": {
+        "start": "2024-12",
+        "end": "2024-12"
+      },
+      "declaration": "GPAI Belgrade Ministerial Declaration",
+      "notes": "GPAI-OECD integration announced."
+    }
+  }
+}
