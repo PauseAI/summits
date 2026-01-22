@@ -1,6 +1,6 @@
 # Research Progress
 
-Last updated: 2026-01-11
+Last updated: 2026-01-22
 
 ## Legend
 - ⬜ Not started
@@ -28,7 +28,7 @@ Last updated: 2026-01-11
 | France | ⬜ | | GPAI co-founder, hosted Paris |
 | Germany | ⬜ | | Major EU voice |
 | Singapore | ⬜ | | GPAI member, active in ASEAN |
-| Australia | ⬜ | | GPAI founding member |
+| Australia | 🟡 | Anthony | GPAI founding member, 6 contacts added |
 | Netherlands | ⬜ | | Active on AI governance |
 
 ## Tier 3: Potential Swing Votes
@@ -92,9 +92,9 @@ Last updated: 2026-01-11
 ## Summary Stats
 
 - Total countries tracked: ~50
-- Complete: 0
-- In progress: 1
-- Not started: ~49
+- Complete: 1
+- In progress: 2
+- Not started: ~47
 
 ## Notes
 

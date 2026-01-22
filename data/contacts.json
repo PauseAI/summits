@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "0.1.0",
-    "last_updated": "2026-01-11",
+    "last_updated": "2026-01-22",
     "maintainer": "PauseAI",
     "license": "TBD"
   },
@@ -85,6 +85,101 @@
         }
       ],
       "notes": "UK hosted Bletchley Summit 2023, established first national AISI. Declined to sign Paris 2025 declaration alongside US."
+    },
+    "australia": {
+      "name": "Australia",
+      "iso_code": "AUS",
+      "region": "Asia-Pacific",
+      "gpai_member": true,
+      "gpai_founding": true,
+      "oecd_member": true,
+      "ai_safety_institute": {
+        "exists": false,
+        "notes": "National AI Centre (NAIC) handles coordination but is not a dedicated safety institute"
+      },
+      "lead_ministry": {
+        "name": "Department of Industry, Science and Resources",
+        "acronym": "DISR",
+        "website": "https://www.industry.gov.au",
+        "general_email": null
+      },
+      "summits": {
+        "bletchley_2023": {
+          "status": "signed",
+          "notes": ""
+        },
+        "seoul_2024": {
+          "status": "unknown",
+          "notes": "Need to verify"
+        },
+        "paris_2025": {
+          "status": "signed",
+          "notes": "Chelle Adamson (DISR) attended signing"
+        }
+      },
+      "contacts": [
+        {
+          "name": "Helen Wilson",
+          "title": "Acting Secretary; Deputy Secretary, Science and Technology Group",
+          "organization": "DISR",
+          "role_type": "official",
+          "email": null,
+          "source_url": "https://www.industry.gov.au/people/helen-wilson",
+          "verified_date": "2025-12-21",
+          "notes": "Senior DISR leadership"
+        },
+        {
+          "name": "Jessica Hunter",
+          "title": "Ambassador for Cyber Affairs and Critical Technology",
+          "organization": "DFAT",
+          "role_type": "official",
+          "email": null,
+          "source_url": "https://www.dfat.gov.au/about-us/our-people/homs/ambassador-for-cyber-affairs",
+          "verified_date": "2025-12-21",
+          "notes": "International AI/critical-tech diplomacy portfolio"
+        },
+        {
+          "name": "Philip Green OAM",
+          "title": "High Commissioner to India",
+          "organization": "DFAT",
+          "role_type": "official",
+          "email": null,
+          "source_url": "https://www.dfat.gov.au/about-us/our-people/homs/high-commissioner-to-india",
+          "verified_date": "2025-12-21",
+          "notes": "Relevant for India 2026 summit engagement"
+        },
+        {
+          "name": "Chris Fechner",
+          "title": "Chief Executive Officer",
+          "organization": "Digital Transformation Agency",
+          "role_type": "official",
+          "email": null,
+          "source_url": "https://www.dta.gov.au/chris-fechner-ceo",
+          "verified_date": "2025-12-21",
+          "notes": "Government AI adoption lead"
+        },
+        {
+          "name": "Lee Hickin",
+          "title": "Executive Director",
+          "organization": "National AI Centre",
+          "role_type": "institute_head",
+          "email": null,
+          "source_url": null,
+          "verified_date": "2025-12-21",
+          "notes": "National AI coordination"
+        },
+        {
+          "name": "Julie Inman Grant",
+          "title": "eSafety Commissioner",
+          "organization": "eSafety",
+          "role_type": "regulator",
+          "email": null,
+          "source_url": "https://www.esafety.gov.au/about-us/about-the-commissioner",
+          "verified_date": "2025-12-21",
+          "notes": "Independent statutory role; AI harms adjacent"
+        }
+      ],
+      "notes": "AI policy distributed across DISR, DFAT, DTA, Home Affairs. No dedicated AISI; NAIC handles coordination. Source: PauseAI Australia research (ChatGPT-generated, requires verification)."
     }
   }
 }
