@@ -2,6 +2,8 @@
 
 A collaborative database of government contacts responsible for AI policy, supporting civil society engagement with international AI governance processes.
 
+Driving first usecase is the India AI Impact summit: I want a resource AI safety orgs can collaboratively use to identify delegates.
+
 ## Purpose
 
 International AI summits (Bletchley → Seoul → Paris → India 2026) bring together government delegations to discuss AI governance. Civil society organizations seeking to engage with these processes face a common challenge: identifying the right contacts in each country's AI policy apparatus.
