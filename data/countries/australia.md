@@ -11,7 +11,7 @@
 | Region | Asia-Pacific |
 | GPAI Member | Yes (founding) |
 | OECD Member | Yes |
-| AI Safety Institute | No (National AI Centre exists) |
+| AI Safety Institute | No (National AI Centre exists, AISI announced) |
 
 ## Lead Ministry
 
