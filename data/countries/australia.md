@@ -11,7 +11,7 @@
 | Region | Asia-Pacific |
 | GPAI Member | Yes (founding) |
 | OECD Member | Yes |
-| AI Safety Institute | No (National AI Centre exists) |
+| AI Safety Institute | No (National AI Centre exists, AISI announced) |
 
 ## Lead Ministry
 
@@ -37,7 +37,7 @@ No dedicated AI Safety Institute, but National AI Centre (under DISR) handles co
 
 | Field | Value |
 |-------|-------|
-| Name | TBD |
+| Name | Tim Ayres |
 | Title | Minister for Industry and Science |
 | Organization | DISR |
 | Email | TBD |
@@ -123,7 +123,7 @@ No dedicated AI Safety Institute, but National AI Centre (under DISR) handles co
 
 ## AI Safety Institute
 
-No dedicated AISI. National AI Centre (NAIC) under DISR handles AI coordination, adoption, and some governance work.
+AISI announced but not running yet. National AI Centre (NAIC) under DISR handles AI coordination, adoption, and some governance work.
 
 ## National AI Strategy
 
